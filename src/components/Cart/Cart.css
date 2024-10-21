@@ -5,3 +5,12 @@
     border-radius: 5px;
     border: 2px solid rgb(0, 183, 255);
 }
+
+.cart-container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
